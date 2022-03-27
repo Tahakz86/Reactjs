@@ -38,8 +38,7 @@ export default function Home() {
                   data-item-id={product.id}
                   data-item-image={product.image}
                   data-item-name={product.title}
-                  data-item-price={product.price}
-                >
+                  data-item-price={product.price}>
                   Add to Cart
                 </button>
                 </p>
