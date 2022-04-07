@@ -1,5 +1,5 @@
 # React
-My React JS Projects
+My React JS projects
 - 👋 Hi, I’m @Tahakz86
 - 👀 I’m interested in WEB Design
 - 🌱 I’m currently learning WEB Design
